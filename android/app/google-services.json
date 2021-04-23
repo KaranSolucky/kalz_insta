@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "959183626863",
+    "project_id": "kalzinsta",
+    "storage_bucket": "kalzinsta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959183626863:android:2d382b51f3a58f1e92e39a",
+        "android_client_info": {
+          "package_name": "com.example.kalz_insta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959183626863-coih73716iufn9ssl7uidh3ht2705o2j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kalz_insta",
+            "certificate_hash": "86ae6cae10f0b996d242220e9a4eae6e0161be5a"
+          }
+        },
+        {
+          "client_id": "959183626863-ltk2bjdikegq7v4e2buau30nuaq0gmg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlPAmBQCFUYZBCY4s4g3cuP0aaNtkRvlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959183626863-ltk2bjdikegq7v4e2buau30nuaq0gmg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
